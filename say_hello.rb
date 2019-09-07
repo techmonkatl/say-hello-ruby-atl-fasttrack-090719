@@ -1,4 +1,10 @@
-def say_hello
-  
+def say_hello(me)
+  puts "Hello #{me}"
   end 
-  # Build your say_hello method here
+ 
+ 
+ 
+ 
+ say_hello("Kent Beck")
+  
+  
